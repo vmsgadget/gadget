@@ -1,6 +1,0 @@
-#COMPONENT
-TYPE = ELEMENT
-NAME = ElLead
-SYMBOL = Pb
-Z = 82
-A = 207.2
